@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MPX Collection Alpha
-description: Lorem ipsum dolor est
+description: 5 of each SIG MPX from Wave ALPHA will be sold on OpenSea.
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
