@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Who are we?
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Our in-motion NFTs are individually designed with precision and care without the use of any NFT generators. The results are high-quality, 3D-rendered models that are simply mesmerizing. We hope that our models can make their way into blockchain video games in the future!'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
